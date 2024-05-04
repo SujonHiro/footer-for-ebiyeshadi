@@ -1,0 +1,33 @@
+.pre-footer {
+    background: linear-gradient(to top, #ff8eb7 0%, #FAFAFA 100%);
+    color: #000; /* Text color */
+    width: auto;
+    margin: 0 auto;
+    border-top: 1px solid #D5014D;
+}
+.bg-img-none {
+    background: none !important;
+}
+
+.pre-footer ul {
+    padding-left: 8px;
+    list-style: none;
+}
+.pre-footer a {
+    color: #000;
+    font-size: 16px;
+    line-height: 0px;
+    text-decoration: none;
+}
+.pre-footer h2{
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #D5014D;
+    padding: 8px 14px;
+}
+
+
+
+
+
